@@ -6,8 +6,8 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Aoptifine"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/optifine?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/optifine/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/rockquiet/ctp-optifine/issues"><img src="https://img.shields.io/github/issues/rockquiet/ctp-optifine?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/rockquiet/ctp-optifine/raw/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -32,9 +32,6 @@
 <summary>🌿 Mocha</summary>
 <img src="assets/mocha.webp"/>
 </details>
-
-## 💝 Current Maintainer(s)
-- [rockquiet](https://github.com/rockquiet)
 
 &nbsp;
 
